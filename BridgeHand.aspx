@@ -44,7 +44,7 @@
 
 <div id="divCard"></div>
     
-    <span>hello</span>
+    <span>hello from fork</span>
 
 </asp:Content>
 
