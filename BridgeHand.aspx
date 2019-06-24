@@ -43,6 +43,8 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 
 <div id="divCard"></div>
+    
+    <span>hello</span>
 
 </asp:Content>
 
